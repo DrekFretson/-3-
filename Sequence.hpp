@@ -1,5 +1,5 @@
-#ifndef SEQUENCE_H
-#define SEQUENCE_H
+#ifndef SEQUENCE_HPP
+#define SEQUENCE_HPP
 
 #include <stdexcept>
 
