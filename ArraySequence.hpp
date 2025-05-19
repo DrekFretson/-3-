@@ -1,8 +1,8 @@
-#ifndef ARRAY_SEQUENCE_H
-#define ARRAY_SEQUENCE_H
+#ifndef ARRAY_SEQUENCE_HPP
+#define ARRAY_SEQUENCE_HPP
 
-#include "Sequence.h"
-#include "DynamicArray.h"
+#include "Sequence.hpp"
+#include "DynamicArray.hpp"
 
 template <class T> class MutableArraySequence;
 template <class T> class ImmutableArraySequence;
