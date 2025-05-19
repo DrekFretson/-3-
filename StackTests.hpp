@@ -4,7 +4,7 @@
 #include <iostream>
 #include <fstream>
 #include <ctime>
-#include "Stack.h"
+#include "Stack.hpp"
 
 void RunTestsFromFile(const std::string& inputFile, const std::string& outputFile) {
     std::ifstream in(inputFile);
