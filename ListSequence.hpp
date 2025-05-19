@@ -1,8 +1,8 @@
-#ifndef LISTSEQUENCE_H
-#define LISTSEQUENCE_H
+#ifndef LISTSEQUENCE_HPP
+#define LISTSEQUENCE_HPP
 
-#include "Sequence.h"
-#include "LinkedList.h"
+#include "Sequence.hpp"
+#include "LinkedList.hpp"
 
 template <class T> class MutableListSequence;
 template <class T> class ImmutableListSequence;
