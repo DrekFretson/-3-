@@ -1,7 +1,7 @@
-#ifndef STACK_H
-#define STACK_H
+#ifndef STACK_HPP
+#define STACK_HPP
 
-#include "ArraySequence.h"
+#include "ArraySequence.hpp"
 #include <stdexcept>
 #include <functional>
 #include <string>
